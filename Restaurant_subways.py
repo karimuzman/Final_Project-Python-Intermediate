@@ -1,3 +1,7 @@
+# Crawl Restaurant(Fast Food Chains) Dataset from the Web
+# Student of Python Intermediate Online Class / Summer 2023
+# Version 1.1
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
